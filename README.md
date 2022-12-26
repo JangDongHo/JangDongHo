@@ -1,42 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Dongho%20Jang🌱&fontSize=75)
+## 안녕하세요 👋
 
-<h2 align="center">🙆‍♀️ Contact & Channels 🙆‍♀️</h2>
-<p align="center">
-    <a href="https://moistcode.tistory.com/">
-        <img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
-    </a>
-    <a href="mailto:donghoo158@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-</p>
-<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangDongHo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JangDongHo)
 
-<br>
-<h3 align="center">🎓 Education 🎓</h3>
-<p align="center">
-국립경상대학교 컴퓨터과학과 전공 (FEB 2019 ~ FEB 2025)
-</p>
-<br>
+### 😀 SW로 선한 영향력을 펼치고 싶은 개발자 장동호입니다.
 
-<h3 align="center">🕹 Cards 🕹</h3>
-<p align="center">
-<a href="https://github.com/JangDongHo/">
-    <img src="https://github-readme-stats.vercel.app/api?username=JangDongHo&show_icons=true&theme=radica">
-</a>
-</p>
+### 🏃‍♂️ 아래와 같은 활동을 하고 있는 저는
+- [UMC 3기](https://www.makeus.in/umc)
+    - Node.js 서버 파트 스터디장
+- 경상국립대학교 CS Algorithm 연구실장
+    - 주 1회 세미나 참여
+    - 연구 프로젝트 참여
 
-<p align="center">
-<a href="https://github.com/JangDongHo/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JangDongHo&layout=compact&theme=radical)](https://github.com/JangDongHo/github-readme-stats">
-</a>
+### ✏️ 주로 아래와 같은 공부를 하며
+- 백엔드 개발 (Node.js)
 
-</p>
+### 📚 이러한 것들을 할 줄 압니다!
+- 프론트엔드 (HTML, CSS, SCSS, JavaScript)
+- 백엔드 (Express, Node.js, Pug)
+- 데이터베이스 (MySQL, MongoDB)
 
-<p align="center">
-<a href="https://solved.ac/dongho18/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongho18">
-</p>
-
-<p align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangDongHo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+### 🤔 제가 더 궁금하신가요?
+- 🏠 개인 홈페이지 - https://dongho18.notion.site/dongho18/7ace91c4b2b248c684fa6f98ec7b56f0
+- 🌱 공부 블로그 - https://dongho-dev.tistory.com/
+- ✉️ 이메일 - donghoo18@naver.com
