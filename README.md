@@ -14,7 +14,7 @@
 
 ---
 
-### 🏃‍♂️  같은 활동을 하고 있는 저는
+### 🏃‍♂️ 다음과 같은 활동을 하고 있는 저는
 - [UMC 3기](https://www.makeus.in/umc)
     - Node.js 서버 파트 스터디장
 - [경상국립대학교 CS Algorithm 연구실장](https://www.gnu.ac.kr/cs/main.do)
