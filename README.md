@@ -28,6 +28,7 @@
 - 프론트엔드 (HTML, CSS, SCSS, JavaScript)
 - 백엔드 (Express, Node.js, Pug)
 - 데이터베이스 (MySQL, MongoDB)
+- 인프라 (AWS)
 
 ### 🤔 제가 더 궁금하신가요?
 - 🏠 개인 홈페이지 - https://dongho18.notion.site/dongho18/7ace91c4b2b248c684fa6f98ec7b56f0
