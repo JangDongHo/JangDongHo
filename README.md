@@ -25,7 +25,7 @@
 ### 📚 이러한 것들을 할 줄 압니다!
 - 프론트엔드 (HTML, CSS, SCSS, JavaScript)
 - 백엔드 (Nest.js, Express, Node.js, Pug)
-- 데이터베이스 (MySQL, MongoDB)
+- 데이터베이스 (MySQL, MongoDB, Firebase)
 - 인프라 (AWS)
 
 ### 🤔 제가 더 궁금하신가요?
