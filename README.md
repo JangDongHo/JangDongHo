@@ -16,19 +16,18 @@
 
 ### 🏃‍♂️ Experience
 | Type | Date | Content | Role |
-| --- | --- | --- | --- |
-| Volunteer | 2023.01 - 2023.02 | [Student SW·AI Education Outreach](https://connect.or.kr/) |  |
-| Activity | 2022.09 - 2023.02 | [UMC 3rd](https://www.makeus.in/umc) | Node.js Developer |
-| Education | 2022.08 - (2025.02) | [Computer Science Algorithm Lab.](https://www.gnu.ac.kr/cs/main.do) | Research Director |
-| Education | 2019.03 - (2025.02) | [Gyeongsang National University](https://www.gnu.ac.kr/) | Bachelor's degree |
+| :---: | :---: | :---: | :---: |
+| Volunteer | 2023.01 - 2023.02 | **[Student SW·AI Education Outreach](https://connect.or.kr/)** |  |
+| Activity | 2022.09 - 2023.02 | **[UMC 3rd](https://www.makeus.in/umc)** | Node.js Developer |
+| Education | 2022.08 - (2025.02) | **[Computer Science Algorithm Lab.](https://www.gnu.ac.kr/cs/main.do)** | Research Director |
+| Education | 2019.03 - (2025.02) | **[Gyeongsang National University](https://www.gnu.ac.kr/)** | Bachelor's degree |
 
 ### 🏆️ Award
 | Date | Institution | Event | Award |
-| --- | --- | --- | --- |
-| 2023 | 경상국립대학교 | [2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289) | 우수상(경상국립대학교총장상)
-| 2023 | 경상국립대학교 | [지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770) | 최우수상(빅데이터기술IP융합인재양성사업단장상)
-| 2022 | 경상남도, 경남ICT협회 | [제2회 경남소프트웨어경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/) | 최우수상(NH농협본부장상)
-| 2022 | UMC | [3rd University MakeUs Challenge 해커톤](https://www.makeus.in/umc) | 대상 |
+| :---: | :---: | :---: | --- |
+| 2023 | 경상국립대학교 | **[2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289)** | 우수상(경상국립대학교총장상)
+| 2023 | 경상국립대학교 | **[지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770)** | 최우수상(빅데이터기술IP융합인재양성사업단장상)
+| 2022 | 경상남도, 경남ICT협회 | **[제2회 경남 소프트웨어 경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/)** | 최우수상(NH농협본부장상)
 
 ---
 
