@@ -14,19 +14,23 @@
 
 ---
 
-### 🏃‍♂️ 다음과 같은 활동을 하고 있는 저는
-- [경상국립대학교 CS Algorithm 연구실장](https://www.gnu.ac.kr/cs/main.do)
-    - 주 1회 세미나 참여
-    - 연구 프로젝트 참여
+### 🏃‍♂️ Experience
+| Type | Date | Content | Role |
+| --- | --- | --- | --- |
+| Volunteer | 2023.01 - 2023.02 | [Student SW·AI Education Outreach](https://connect.or.kr/) |  |
+| Activity | 2022.09 - 2023.02 | [UMC 3rd](https://www.makeus.in/umc) | Node.js Developer |
+| Education | 2022.08 - (2025.02) | [Computer Science Algorithm Lab.](https://www.gnu.ac.kr/cs/main.do) | Research Director |
+| Education | 2019.03 - (2025.02) | [Gyeongsang National University](https://www.gnu.ac.kr/) | Bachelor's degree |
 
-### ✏️ 주로 아래와 같은 공부를 하며
-- 백엔드 개발 (Nest.js)
+### 🏆️ Award
+| Date | Institution | Event | Award |
+| --- | --- | --- | --- |
+| 2023 | 경상국립대학교 | [2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289) | 우수상(경상국립대학교총장상)
+| 2023 | 경상국립대학교 | [지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770) | 최우수상(빅데이터기술IP융합인재양성사업단장상)
+| 2022 | 경상남도, 경남ICT협회 | [제2회 경남소프트웨어경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/) | 최우수상(NH농협본부장상)
+| 2022 | UMC | [3rd University MakeUs Challenge 해커톤](https://www.makeus.in/umc) | 대상 |
 
-### 📚 이러한 것들을 할 줄 압니다!
-- 프론트엔드 (HTML, CSS, SCSS, JavaScript)
-- 백엔드 (Nest.js, Express, Node.js, Pug)
-- 데이터베이스 (MySQL, MongoDB, Firebase)
-- 인프라 (AWS)
+---
 
 ### 🤔 제가 더 궁금하신가요?
 - 🏠 개인 홈페이지 - http://jangdongho.kro.kr
