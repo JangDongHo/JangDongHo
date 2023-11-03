@@ -25,7 +25,7 @@
 ### 🏆️ Award
 | Date | Institution | Event | Award |
 | :---: | :---: | :---: | --- |
-| 2023 | 과학기술정보통신부 | **[K-HACKATHON 11](http://www.k-hackathon.com/)** | | 우수상(한국컴퓨터정보학회장상)
+| 2023 | 과학기술정보통신부 | **[K-HACKATHON 11](http://www.k-hackathon.com/)** | 우수상(한국컴퓨터정보학회장상)
 | 2023 | 울산·경남지역혁신플랫폼 스마트공동체사업단, LH | **[제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회](https://www.lecturernews.com/news/articleView.html?idxno=133210)** | 장려상(한국토지주택공사사장상)
 | 2023 | 경상국립대학교 | **[2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289)** | 우수상(경상국립대학교총장상)
 | 2023 | 경상국립대학교 | **[지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770)** | 최우수상(빅데이터기술IP융합인재양성사업단장상)
