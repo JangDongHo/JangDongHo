@@ -30,10 +30,10 @@
 | 2023 | 한국정보기술학회 | **[한국정보기술학회 대학생 논문경진대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/12077728)** | 동상(한국정보기술학회장상) |
 | 2023 | 경상국립대학교 | **[제11회 자연과학대학 창의력 경진대회](https://www.gnu.ac.kr/cs/na/ntt/selectNttInfo.do?mi=12277&bbsId=3777&nttSn=2210853)** | 금상(자연과학대학장상) |
 | 2023 | 과학기술정보통신부 | **[K-HACKATHON 11](https://www.gnu.ac.kr/cs/na/ntt/selectNttInfo.do?mi=12277&bbsId=3777&nttSn=2211227)** | 우수상(한국컴퓨터정보학회장상)
-| 2023 | 울산·경남지역혁신플랫폼 스마트공동체사업단, LH | **[제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회](https://www.lecturernews.com/news/articleView.html?idxno=133210)** | 장려상(한국토지주택공사사장상)
+| 2023 | 울산·경남지역혁신플랫폼 스마트공동체사업단 | **[제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회](https://www.lecturernews.com/news/articleView.html?idxno=133210)** | 장려상(한국토지주택공사사장상)
 | 2023 | 경상국립대학교 | **[2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289)** | 우수상(경상국립대학교총장상)
 | 2023 | 경상국립대학교 | **[지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770)** | 최우수상(빅데이터기술IP융합인재양성사업단장상)
-| 2022 | 경상남도, 경남ICT협회 | **[제2회 경남 소프트웨어 경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/)** | 최우수상(NH농협본부장상)
+| 2022 | 경상남도 | **[제2회 경남 소프트웨어 경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/)** | 최우수상(NH농협본부장상)
 
 ---
 
