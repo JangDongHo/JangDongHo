@@ -42,5 +42,5 @@
 
 ### 🤔 제가 더 궁금하신가요?
 - 🏠 개인 홈페이지 - http://jangdongho.kro.kr
-- 🌱 공부 블로그 - https://dongho-dev.tistory.com/
+- 🌱 공부 블로그 - https://jangdongho.github.io/
 - ✉️ 이메일 - donghoo158@gmail.com
