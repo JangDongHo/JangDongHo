@@ -35,8 +35,9 @@
 | 2023 | 경상국립대학교 | **[지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770)** | 최우수상(빅데이터기술IP융합인재양성사업단장상)
 | 2022 | 경상남도 | **[제2회 경남 소프트웨어 경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/)** | 최우수상(NH농협본부장상)
 
-### 🧪 Conferences
-1. [장동호, et al. "기계학습을 이용한 부동산 전월세 매물 예측 연구: 경상남도 진주 지역을 사례로." Proceedings of KIIT Conference. 2023.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652057)
+### 🧪 Journal
+1. [장동호, 부석준, 서영건, "이커머스 도메인에서의 동일 태그 교체 데이터 증강 기법을 활용한 개체명 인식," 디지털콘텐츠학회논문지, vol. 25, pp. 1159-1166, 2024.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11792258)
+2. [장동호, et al. "기계학습을 이용한 부동산 전월세 매물 예측 연구: 경상남도 진주 지역을 사례로." Proceedings of KIIT Conference. 2023.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652057)
 
 ---
 
