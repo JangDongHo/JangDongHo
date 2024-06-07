@@ -45,3 +45,11 @@
 - 🏠 개인 홈페이지 - http://jangdongho.kro.kr
 - 🌱 공부 블로그 - https://jangdongho.github.io/
 - ✉️ 이메일 - donghoo158@gmail.com
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JangDongHo"
+  width="1200"
+  height="300"
+/>
+</a>
