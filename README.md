@@ -42,7 +42,7 @@
 ---
 
 ### 🤔 제가 더 궁금하신가요?
-- 🏠 개인 홈페이지 - http://jangdongho.kro.kr
+- 🏠 개인 홈페이지 - https://dongho.oopy.io/
 - 🌱 공부 블로그 - https://jangdongho.github.io/
 - ✉️ 이메일 - donghoo158@gmail.com
 
