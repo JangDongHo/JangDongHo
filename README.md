@@ -1,56 +1,15 @@
-## 안녕하세요 👋
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hello,%20I'm%20DONGHO&fontSize=90)
 
+## 🙋 About Me
+<p>
+🧑🏻‍💻 유저들의 불편을 해결하는 BE 개발자가 되기 위해 노력합니다.<br>
+💡 문제를 해결하는 데 가장 적합한 도구와 방법을 찾아 사용하는 것을 선호합니다.<br>
+👍 책임감 있게 끝까지 해내는 성격 덕분에, 어떤 일이든 맡으면 포기하지 않고 해결하려고 노력합니다!<br>
+🌱 <b>언제나 배우고, 나누고, 성장하고 싶습니다.</b>
+</p>
+
+<a href="https://dongho.oopy.io" target="_blank"><img src="https://img.shields.io/badge/RESUME-129900?style=flat" /></a>
+<a href="https://dongho.oopy.io/blog" target="_blank"><img src="https://img.shields.io/badge/BLOG-F64714?style=flat" /></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangDongHo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JangDongHo)
 
-### 😀 SW로 선한 영향력을 펼치고 싶은 개발자 장동호입니다.
-
-만나서 반갑습니다.
-
-✅ 낮에는 미래를 위해 공부하는 컴과학부생, <br>
-✅ 밤에는 운동하고 집안일 하면서 쉬는 파워 I <br>
-✅ 주말에는 기록하며 지난 날을 회고하는 파워 J <br>
-
-매일매일 꾸준히 성장하는 모습 보여드리겠습니다.
-
----
-
-### 🏃‍♂️ Experience
-| Type | Date | Content | Role |
-| :---: | :---: | :---: | :---: |
-| Volunteer | 2023.01 - 2023.02 | **[Student SW·AI Education Outreach](https://connect.or.kr/)** |  |
-| Activity | 2022.09 - 2023.02 | **[UMC 3rd](https://www.makeus.in/umc)** | Node.js Developer |
-| Education | 2022.08 - (2025.02) | **[Computer Science Algorithm Lab.](https://www.gnu.ac.kr/cs/main.do)** | Research Director |
-| Education | 2019.03 - (2025.02) | **[Gyeongsang National University](https://www.gnu.ac.kr/)** | Bachelor's degree |
-
-### 🏆️ Award
-| Date | Institution | Event | Award |
-| :---: | :---: | :---: | --- |
-| 2024 | 경상국립대학교 | **[2024-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1289&bbsId=1039&nttSn=2246664)** | 장려상(경상국립대학교총장상)
-| 2024 | 경상국립대학교 | **[2023-2 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?mi=1289&bbsId=1039&nttSn=2219464)** | 최우수상(경상국립대학교총장상)
-| 2023 | 경상국립대학교 | **[제32회 학과 소프트웨어 전시회]()** | 우수상(컴퓨터과학부) |
-| 2023 | 한국정보기술학회 | **[한국정보기술학회 대학생 논문경진대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/12077728)** | 동상(한국정보기술학회장상) |
-| 2023 | 경상국립대학교 | **[제11회 자연과학대학 창의력 경진대회](https://www.gnu.ac.kr/cs/na/ntt/selectNttInfo.do?mi=12277&bbsId=3777&nttSn=2210853)** | 금상(자연과학대학장상) |
-| 2023 | 과학기술정보통신부 | **[K-HACKATHON 11](https://www.gnu.ac.kr/cs/na/ntt/selectNttInfo.do?mi=12277&bbsId=3777&nttSn=2211227)** | 우수상(한국컴퓨터정보학회장상)
-| 2023 | 울산·경남지역혁신플랫폼 스마트공동체사업단 | **[제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회](https://www.lecturernews.com/news/articleView.html?idxno=133210)** | 장려상(한국토지주택공사사장상)
-| 2023 | 경상국립대학교 | **[2023-1 개척학기제 성과발표회](https://www.gnu.ac.kr/main/na/ntt/selectNttInfo.do?nttSn=2195395&mi=1289)** | 우수상(경상국립대학교총장상)
-| 2023 | 경상국립대학교 | **[지식재산-빅데이터 경진대회](https://www.lecturernews.com/news/articleView.html?idxno=128770)** | 최우수상(빅데이터기술IP융합인재양성사업단장상)
-| 2022 | 경상남도 | **[제2회 경남 소프트웨어 경진대회](http://www.gnict.org/%EA%B2%8C%EC%8B%9C%ED%8C%90/sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EA%B2%BD%EB%82%A8-sw%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B2%B0%EA%B3%BC/)** | 최우수상(NH농협본부장상)
-
-### 🧪 Journal
-1. [장동호, 부석준, 서영건, "이커머스 도메인에서의 동일 태그 교체 데이터 증강 기법을 활용한 개체명 인식," 디지털콘텐츠학회논문지, vol. 25, pp. 1159-1166, 2024.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11792258)
-2. [장동호, et al. "기계학습을 이용한 부동산 전월세 매물 예측 연구: 경상남도 진주 지역을 사례로." Proceedings of KIIT Conference. 2023.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652057)
-
----
-
-### 🤔 제가 더 궁금하신가요?
-- 🏠 개인 홈페이지 - https://dongho.oopy.io/
-- 🌱 공부 블로그 - https://jangdongho.github.io/
-- ✉️ 이메일 - donghoo158@gmail.com
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/JangDongHo"
-  width="1200"
-  height="300"
-/>
-</a>
+<img src="https://render.gitanimals.org/farms/JangDongHo" height="180" />
